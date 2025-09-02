@@ -548,72 +548,6 @@ Variables are references to an instance of an object
 \end_layout
 
 \begin_layout Itemize
-A 
-\series bold
-class
-\series default
- defines the 
-\series bold
-type
-\series default
- of an object
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-lstinline{.attribute}
-\end_layout
-
-\end_inset
-
-,
- state
-\end_layout
-
-\begin_layout Itemize
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-lstinline{.method()}
-\end_layout
-
-\end_inset
-
-,
- action (incl.
- changing self)
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-Inheritance (of methods) (
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-lstinline{class Child(Parent)}
-\end_layout
-
-\end_inset
-
-)
-\end_layout
-
-\begin_layout Itemize
 \begin_inset ERT
 status open
 
@@ -1117,7 +1051,7 @@ end{lstlisting}
 status open
 
 \begin_layout Plain Layout
-Computational tree and branches
+Conditionals and loops
 \end_layout
 
 \end_inset
