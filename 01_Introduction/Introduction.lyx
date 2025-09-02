@@ -348,21 +348,21 @@ Descriptive Economics
 \begin_inset Formula $\text{\ensuremath{\Rightarrow}}$
 \end_inset
 
-gain flexibility and automation compared to Excel
+ gain flexibility and automation compared to Excel
 \end_layout
 
 \begin_layout Standard
 \begin_inset Formula $\text{\ensuremath{\Rightarrow}}$
 \end_inset
 
-build upon Descriptive Economics
+ build upon Descriptive Economics
 \end_layout
 
 \begin_layout Standard
 \begin_inset Formula $\text{\ensuremath{\Rightarrow}}$
 \end_inset
 
-working with 
+ working with 
 \begin_inset Quotes ald
 \end_inset
 
@@ -393,14 +393,14 @@ Micro and Macro
 \begin_inset Formula $\text{\ensuremath{\Rightarrow}}$
 \end_inset
 
-less strict assumptions than with math and easy visualization
+ less strict assumptions than with math and easy visualization
 \end_layout
 
 \begin_layout Standard
 \begin_inset Formula $\text{\ensuremath{\Rightarrow}}$
 \end_inset
 
-improve your understanding of Micro and Macro
+ improve your understanding of Micro and Macro
 \end_layout
 
 \begin_layout Standard
@@ -410,6 +410,21 @@ improve your understanding of Micro and Macro
  from model-user to 
 \emph on
 model-builder
+\emph default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+vspace{2mm}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_deeper
@@ -514,7 +529,11 @@ You have to experiment on your own
 \end_layout
 
 \begin_layout Itemize
-You have to be able to acquire new tools on your own (studies+work)
+You have to be able to acquire new tools on your own
+\begin_inset Newline newline
+\end_inset
+
+(for further studies + work)
 \end_layout
 
 \end_deeper
@@ -1376,7 +1395,7 @@ Exercises:
 
 \series default
  37-41,
- 43-41
+ 43-51
 \begin_inset ERT
 status open
 
